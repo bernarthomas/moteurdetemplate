@@ -1,0 +1,22 @@
+{
+  "name": "bernarthomas/moteurdetemplate",
+  "description": "Permet d'inserer du code dynamique pour générer les fichers html . Supporte l'héritage.",
+  "type": "package",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Thomas",
+      "email": "bernarthomas@free.fr"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^8.1",
+    "phpunit/phpunit": "10.0.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bernarthomas\\": ""
+    }
+  }
+}
