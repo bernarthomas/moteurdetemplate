@@ -1,6 +1,6 @@
 {
   "name": "bernarthomas/moteurdetemplate",
-  "description": "Permet d'inserer du code dynamique pour générer les fichers html . Supporte l'héritage.",
+  "description": "Exemple d'utilisation de bernarthomas/moteurdetemplate",
   "type": "package",
   "license": "GPL-3.0+",
   "authors": [
