@@ -12,7 +12,7 @@ class RecupereBlocks
      *
      * @return array
      */
-    public function execute(array $fichiersTemplate): RecupereBlocks
+    public function execute(array $fichiersTemplate): array
     {
         $blocks = [];
         foreach( $fichiersTemplate as $template) {
